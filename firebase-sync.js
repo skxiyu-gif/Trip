@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChang
 import { getFirestore, doc, getDoc, setDoc, onSnapshot, serverTimestamp } from "https://www.gstatic.com/firebasejs/13.3.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyADFoPB8F-M_BTw2gHSLtvGCfz0-iWr1U",
+  apiKey: "AIzaSyADFoPBxF-M_BTw2gHSLtvGCfz0-iWr1lU",
   authDomain: "trip-china-36c89.firebaseapp.com",
   projectId: "trip-china-36c89",
   storageBucket: "trip-china-36c89.firebasestorage.app",
